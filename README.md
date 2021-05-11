@@ -1,6 +1,6 @@
 - Name: NicholasReis
 - Born: 04/04/95
-- Location: Southern BC
+- Location: Okanagan Valley
 - I’m currently trying to overhaul my online presence to put my best foot forward.
 - I’m trying to dust off precursory knowledge of languages I never used much, like Python and C.
 - Very open to a job or contract work
