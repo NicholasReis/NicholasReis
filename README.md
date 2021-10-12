@@ -2,7 +2,6 @@
 - Born: 04/04/95
 - Location: Okanagan Valley
 - I’m currently trying to overhaul my online presence to put my best foot forward.
-- I’m trying to dust off precursory knowledge of languages I never used much, like Python and C.
 - Very open to a job or contract work
 - If you need to get a hold of me you can shoot me an email at NicholasCReis@gmail.com
 
