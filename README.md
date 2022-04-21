@@ -27,9 +27,10 @@
 
 :mailbox_with_mail: Contact Me:
 ---
-<a href="http://nicholasreis.com">nicholasreis.com</a><br>
-
-<a href="https://www.linkedin.com/in/nicholascreis" rel="nofollow noreferrer">
+<div>
+🌎 <a href="http://nicholasreis.com">nicholasreis.com</a><br>
+ <img src="https://www.clintonfitch.com/wp-content/uploads/2018/01/Gmail-Icon.png" style="width:20px;height:20px; alt="gmail"> NicholasCReis@gmail.com
+<a href="https://www.linkedin.com/in/nicholascreis" rel="nofollow noreferrer"><br>
    <img src="https://i.stack.imgur.com/gVE0j.png" style="width:20px;height:20px; alt="linkedin"> LinkedIn
  </a><br>
- <div><img src="https://www.clintonfitch.com/wp-content/uploads/2018/01/Gmail-Icon.png" style="width:20px;height:20px; alt="gmail"> NicholasCReis@gmail.com</div>
+</div>
